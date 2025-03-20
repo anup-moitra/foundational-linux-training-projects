@@ -8,6 +8,8 @@ It is designed to:
 
 Each chapter follows the structure outlined in the course syllabus to ensure clear, organized learning.
 
+> _**Note:** This repository is intended as a personal learning resource and does not replace the original course. I highly encourage learners to enroll in the course for comprehensive content and instructor guidance._
+
 ---
 
 ## ✨ Key Learning Areas
