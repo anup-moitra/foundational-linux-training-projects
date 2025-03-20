@@ -11,19 +11,13 @@
 - Who Uses Linux?
 - Difference Between Linux and Windows
 
-**Module 2 – Download, Install and Configure** 
+**Module 2 – Virtual Lab Setup** 
 
-- What is Oracle Virtual Box? 
-- Downloading and Installing Oracle Virtual Box 
-- Creating virtual machine 
-- Linux Distributions 
-- Different way to install Linux 
-- Downloading and Installing Linux (CentOS) 
-- Redhat Linux installation (Optional) 
-- Linux Desktop (GUI) 
-- Virtual Machine Management 
-- Linux vs. Windows 
-- Who Uses Linux? 
+- What is Oracle VirtualBox?  
+- Downloading and Installing Oracle VirtualBox  
+- Creating and Configuring a Virtual Machine  
+- Downloading and Installing Linux (CentOS Stream 9)  
+- Taking Snapshots in VirtualBox  
 
 **Module 3 – System Access and File Management** 
 
