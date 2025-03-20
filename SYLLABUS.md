@@ -13,7 +13,6 @@
 
 **Module 2 – Virtual Lab Setup** 
 
-- What is Oracle VirtualBox?  
 - Downloading and Installing Oracle VirtualBox  
 - Creating and Configuring a Virtual Machine  
 - Downloading and Installing Linux (CentOS Stream 9)  
