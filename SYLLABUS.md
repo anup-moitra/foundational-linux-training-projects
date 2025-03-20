@@ -25,26 +25,25 @@
 - Linux vs. Windows 
 - Who Uses Linux? 
 
-**Module 3 – System Access and File System** 
+**Module 3 – System Access and File Management** 
 
-- Accessing Linux system 
-- Download and install Putty 
-- New Network Commands (ifconfig and ip) 
-- Connect Linux VM via Putty 
-- Important Things to Remember in Linux 
-- Introduction to File System 
-- File system structure description 
-- File system navigation commands 
-- File System Paths 
-- Directory listing overview 
-- Creating Files and Directories 
-- Linux File Types 
-- Finding Files and Directories (find, locate) 
-- Difference between find and locate command 
-- Changing Password 
-- Wildcard (\*, $, ^) 
-- Soft and Hard Links (ln) 
-- How to open image file through GUI 
+- Important Things to Remember in Linux  
+- Accessing Linux Systems  
+- Accessing Linux Machine via PuTTY or SSH  
+- Regaining the Command Prompt Using Control + C  
+- Introduction to Filesystem Basics  
+- Filesystem Structure Overview  
+- Navigating the File System (`cd`, `ls`, `pwd`)  
+- Understanding File and Directory Properties  
+- Understanding Linux File Types  
+- Understanding Root in Linux  
+- Changing User Passwords in Linux  
+- Absolute and Relative Paths  
+- Creating Files and Directories  
+- Copying Directories  
+- Finding Files and Directories (`find`, `locate`)  
+- Wildcards (`*`, `?`, `{}`, `[]`)  
+- Understanding Soft Links and Hard Links
 
 **Module 4 – Linux Fundamentals** 
 
